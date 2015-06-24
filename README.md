@@ -4,8 +4,11 @@ Take home test from Truecaller based on dropwizard framework.Components used: Je
 Instructions:
 =============
 1) Go to truecaller-hw folder.
+
 2) run mvn package
+
 3) run java -jar .\target\truecaller-hw-1.0.jar server example.yml
+
 4) Start making REST calls now.
 
 REST apis:
