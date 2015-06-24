@@ -1,0 +1,10 @@
+com\truecaller\hw\core\Person.class
+com\truecaller\hw\db\PersonDAO.class
+com\truecaller\hw\resources\PersonResource$2.class
+com\truecaller\hw\TcApplication$2.class
+com\truecaller\hw\resources\PersonResource$1.class
+com\truecaller\hw\core\Viewer.class
+com\truecaller\hw\TcConfiguration.class
+com\truecaller\hw\TcApplication.class
+com\truecaller\hw\TcApplication$1.class
+com\truecaller\hw\resources\PersonResource.class
